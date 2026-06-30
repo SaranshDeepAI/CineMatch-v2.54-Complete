@@ -11,10 +11,17 @@ CineMatch is a full-stack content discovery app that uses a hybrid SBERT + TF-ID
   <img src="https://img.shields.io/badge/Render-Hosted-46E3B7?logo=render&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://cinematch-v2-e3f6a.web.app/"><strong>🔗 Live Demo →</strong></a>
+</p>
+
+> ⚠️ The backend runs on Render's free tier, so the first request after a period of inactivity may take 30–50 seconds to "wake up." Subsequent requests will be fast.
+
 ---
 
 ## 📸 Screenshots
 
+> _Add your screenshots/GIFs here once available_
 
 | Home | Recommendations | Detail Screen |
 |------|------------------|----------------|
