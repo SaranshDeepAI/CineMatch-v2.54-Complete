@@ -12,7 +12,7 @@ class AppConstants {
   static const String ratingsCollection = 'ratings';
   static const String watchlistCollection = 'watchlist';
   // --- TMDB ---
-  static const String tmdbApiKey = '2addbc2bf90cc62db27bf11d93d670f6';
+  static const String tmdbApiKey = 'Please Insert Your TMDB Key';
   static const String tmdbBaseUrl = 'https://api.themoviedb.org/3';
   static const String tmdbImageUrl = 'https://image.tmdb.org/t/p/w500';
   // --- Content Types ---
