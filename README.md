@@ -15,13 +15,12 @@ CineMatch is a full-stack content discovery app that uses a hybrid SBERT + TF-ID
 
 ## 📸 Screenshots
 
-> _Add your screenshots/GIFs here once available_
 
 | Home | Recommendations | Detail Screen |
 |------|------------------|----------------|
 | ![home](docs/screenshots/home.png) | ![recs](docs/screenshots/recommendations.png) | ![detail](docs/screenshots/detail.png) |
 
-| Onboarding | Profile | Edit Preferences |
+| Onboarding | Profile | Authentication |
 |-----------|---------|-------------------|
 | ![onboarding](docs/screenshots/onboarding.png) | ![profile](docs/screenshots/profile.png) | ![prefs](docs/screenshots/authentication.png) |
 
